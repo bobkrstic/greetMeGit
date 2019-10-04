@@ -8,5 +8,5 @@ printf("x is %i\n", x);
 printf("y is %i\n", y);
 
 printf("x is now %i\n", x);
-printf("y i snow %i\n", y);
+printf("y is now %i\n", y);
 }
